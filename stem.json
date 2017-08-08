@@ -1,0 +1,15 @@
+{
+  "build": {
+    "configPath": "test-chainapp/js",
+    "type": "rollup"
+  },
+  "project": {
+    "author": "saintandy",
+    "description": "Just testing",
+    "name": "test-chain"
+  },
+  "sourceControl": {
+    "link": "https://github.com/saintandy/test-chain",
+    "type": "git"
+  }
+}
